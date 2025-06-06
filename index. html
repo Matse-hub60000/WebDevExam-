@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Student Webpage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Webpage</h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <main>
+        <h2>About Me</h2>
+        <p>Hello! My name is <strong>Matseliso Sekike</strong>. I am a passionate and aspiring web developer who enjoys building clean and user-friendly websites. I'm continuously learning new technologies and sharpening my skills in HTML, CSS, and JavaScript.</p>
+        <ul>
+            <li>Playing netball</li>
+            <li>Singing</li>
+            <li>Hanging out with friends</li>
+        </ul>
+    </main>
+
+    <footer>
+        © 2024 Matseliso Sekike
+    </footer>
+</body>
+</html>
